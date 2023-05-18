@@ -13,4 +13,4 @@ PMDs, because they are integrated into a patient's biology, they also present a 
 
 Therefore, PMDs present both a security risk, in that they are often ignored and unprotected, and also a privacy risk, in that the data they collect is widely shared with little or no involvement from the patient. To be fully effective, any personal or organizational security plan should also account for the growing presence of PMDs. 
 
-My graduate thesis, [now available as a book on Amazon](https://www.amazon.com/dp/B0C5N13WFH), reviewed the current threats to personal and organizational security that are presented by personal medical devices and identified key trends. One such trend is the growing adoption of multiple, integrated personal medical devices to increase the quality of life for diabetics.
+My graduate thesis, [now available as a book on Amazon](https://www.amazon.com/dp/B0C5N13WFH), reviews the current threats to personal and organizational security that are presented by personal medical devices and identifies key trends. One such trend is the growing adoption of multiple, integrated personal medical devices to increase the quality of life for diabetics.
